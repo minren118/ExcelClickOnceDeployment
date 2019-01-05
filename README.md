@@ -24,7 +24,8 @@ https://mp.weixin.qq.com/s/G8B2gEG8LfIUCuSyAPFX2w
 
 开源地址为：https://github.com/minren118/ExcelUdfByExcelCuiHuaJi，不妨对您有帮助时帮忙在GtiHub上点个赞。
 
-![登录Github后点击红框给个星星](https://upload-images.jianshu.io/upload_images/9936495-69d79e9cd3688f13.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![登录Github后点击红框给个星星](https://upload-images.jianshu.io/upload_images/9936495-3635afd5fe54d063.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ### 技术交流QQ群
 QQ群名：Excel催化剂开源讨论群， QQ群号：788145319
